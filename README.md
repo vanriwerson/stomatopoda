@@ -1,5 +1,5 @@
 # Stomatopoda
->Bem-vindo ao repositório do projeto Stomatopoda! Este projeto foi um dos primeiros desafios no estudo de desenvolvimento web, cujo objetivo era compilar informações sobre a lagosta boxeadora (stomatopoda) e apresentá-las em uma estrutura pré-definida, listando as fontes de pesquisa. Eis aqui o resultado!
+>Boas-vindas ao repositório do projeto Stomatopoda! Este projeto foi um dos primeiros desafios no estudo de desenvolvimento web, cujo objetivo era compilar informações sobre a lagosta boxeadora (stomatopoda) e apresentá-las em uma estrutura pré-definida, listando as fontes de pesquisa. Eis aqui o resultado!
 
 ### Tecnologias Utilizadas
 - [HTML:](https://developer.mozilla.org/pt-BR/docs/Web/HTML) Linguagem de marcação utilizada para estruturar e apresentar o conteúdo na web.
